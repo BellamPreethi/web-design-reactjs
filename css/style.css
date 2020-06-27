@@ -1,0 +1,21 @@
+.para{
+	background-color: #ddd;
+	color: red;
+}
+
+.first,.second,.third,.fourth{
+	border: 2px solid #000;
+	margin: 2px;
+	width: 400px;
+	text-align: center;
+}
+/*.first img,.second img,.third img,.fourth img{
+	width: 40px;
+}*/
+img{
+	width: 50px;
+	padding: 10px;
+}
+.parent{
+	display: flex;
+}
